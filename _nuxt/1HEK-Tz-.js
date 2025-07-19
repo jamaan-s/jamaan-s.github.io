@@ -1,0 +1,1 @@
+import{_ as o}from"./BnjD_CWG.js";import{c as s,a,b as r,w as n,o as _,d as m}from"./BlSnpuFe.js";const c={class:"bg-amber-950 flex-1/2"},x={__name:"index",setup(p){return(d,t)=>{const e=o;return _(),s("div",c,[t[1]||(t[1]=a("h1",{class:"text-primary"},"Test",-1)),r(e,{to:"/about"},{default:n(()=>t[0]||(t[0]=[m("About")])),_:1,__:[0]})])}}};export{x as default};
