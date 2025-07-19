@@ -1,0 +1,1 @@
+import{_ as o,c as t,a as s,o as a}from"./CdVm7SgB.js";const r={};function c(n,e){return a(),t("div",null,e[0]||(e[0]=[s("h1",{class:"bg-blueeeeee"},"About",-1)]))}const u=o(r,[["render",c]]);export{u as default};
