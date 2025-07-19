@@ -1,1 +1,0 @@
-import{_ as t,c as a,a as s,o}from"./BlSnpuFe.js";const r={},c={class:"bg-amber-950 flex-1/2"};function n(l,e){return o(),a("div",c,e[0]||(e[0]=[s("h1",{class:"text-primary"},"Test",-1),s("h1",{class:"text-blueeee"},"Testsssbl",-1)]))}const f=t(r,[["render",n]]);export{f as default};

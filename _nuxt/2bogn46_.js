@@ -1,0 +1,1 @@
+import{_ as o,c as s,a,b as n,w as r,e as _,o as c,d}from"./CfSVxrjS.js";const x={},i={class:"bg-amber-950 flex-1/2"};function f(l,e){const t=_;return c(),s("div",i,[e[1]||(e[1]=a("h1",{class:"text-primary"},"Test",-1)),n(t,{to:"/about"},{default:r(()=>e[0]||(e[0]=[d("About")])),_:1,__:[0]})])}const u=o(x,[["render",f]]);export{u as default};
